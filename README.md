@@ -42,12 +42,8 @@ def max_marks(list1):
 
 ```
 ## Sample Input and Output
-i)
-![Alt text](image-5.png)
-ii)
-![Alt text](image-3.png)
-iii)
-![Alt text](image-4.png)
+i)![Alt text](img/max_marks1.jpg)
+
 ## Output:
 i)
 ![Alt text](image-1.png)
